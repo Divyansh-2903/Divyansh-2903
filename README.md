@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
+### `> whoami`
 
-**Divyansh-2903/Divyansh-2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Divyansh
 
-Here are some ideas to get you started:
+*Full-stack developer who believes great software should feel invisible.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
+---
+
+🧠 I build things at the intersection of **health × technology × design**.
+
+Right now I'm deep into:
+- 🌙 Sleep science meets software — building tools grounded in CBT-I research
+- ⚡ Monorepos with Turborepo, TypeScript end-to-end
+- 🎨 Interfaces that breathe — minimal, calm, intentional
+
+```text
+         ╭──────────────────────────────╮
+         │   Code with intent.          │
+         │   Design with empathy.       │
+         │   Ship with confidence.      │
+         ╰──────────────────────────────╯
